@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate to someone<br>🤝 I’m looking for job opportunity<br>🌱 I’m currently learning NextJs<br>🌱 I’m a Full Stack Developer | DevOps <br>💬 Ask me about Code stuff
+👯 I’m looking to collaborate to someone<br>🤝 I’m looking for job opportunity<br>🌱 I’m currently learning NextJs<br>🌱 I’m a Full Stack Developer | DevOps <br>💬 Ask me about Code stuff.
 
 
 ## 🌐 Socials:
